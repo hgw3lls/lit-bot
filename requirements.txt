@@ -1,0 +1,7 @@
+pyzotero
+requests
+numpy
+pandas
+slackclient
+pylint
+

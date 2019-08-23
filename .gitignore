@@ -1,5 +1,7 @@
 # Mac files  
 .DS_Store
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -131,4 +133,4 @@ dmypy.json
 # api key files 
 zot_api_key.txt 
 slack_api_key.txt
-
+test_verification.json

@@ -1,0 +1,17 @@
+name: lit-bot
+channels:
+  - conda-forge
+  - bioconda
+  - anaconda
+dependencies: 
+  - pyzotero
+  - requests
+  - numpy
+  - pandas
+  - pylint
+  - flask
+  - pip
+  - pip:
+    - slackclient
+    - slackeventsapi
+    - gunicorn

@@ -4,4 +4,8 @@ numpy
 pandas
 slackclient
 pylint
+flask
+slackeventsapi
+gunicorn
+
 

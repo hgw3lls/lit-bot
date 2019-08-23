@@ -1,3 +1,3 @@
 import os 
-import pyzotero 
+from pyzotero import zotero
 

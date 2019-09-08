@@ -1,3 +1,5 @@
+# This file contains the main entry point into the application  
+
 from flask import Flask, request
 import json
 
